@@ -1,4 +1,4 @@
 # Título: Introducción a GITHUB
 ### Integrantes: 
--Florencia cajal,
--
+    -Florencia cajal,
+    -Matías Cotelo,
