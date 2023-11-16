@@ -1,1 +1,1 @@
-let = "Test";
+let = "Tests";
